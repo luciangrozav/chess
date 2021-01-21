@@ -1,8 +1,8 @@
 package org.fasttrackit;
 
 /**
- * Hello world!
- *
+ Will be a chess game.
+
  */
 public class App 
 {
