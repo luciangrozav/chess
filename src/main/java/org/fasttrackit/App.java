@@ -1,13 +1,14 @@
 package org.fasttrackit;
 
-/**
- Will be a chess game.
 
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Time for chess!" );
+
+        System.out.println( "Welcome to chess time machine game!" );
+
+        Game game = new Game();
+        game.start();
     }
 }
